@@ -13,5 +13,5 @@
 <img src="segmentation_satelliteIles.png" width="150">
 <br>
 <img src="satelliteVille.png" width="150">
-<img src="segmentation_satelliteVille" width="150">
+<img src="segmentation_satelliteVille.png" width="150">
 
